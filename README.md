@@ -1,16 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+This is my internship project of pinnacle lab here i made a project which is based on a web application that allows users to manage their tasks efficiently. The application includes features such as task creation, editing, deletion, and categorization. It also provides a user-friendly interface and responsive design to ensure accessibility across different devices. The project was developed using modern web technologies including HTML, CSS, JavaScript, and a backend framework for handling data storage and retrieval.
+Basically it is a resume parser or you can say builder web application that allows users to create and customize their resumes easily. Users can input their personal information, work experience, education, skills, and other relevant details. The application then generates a professional-looking resume that can be downloaded in various formats such as PDF or Word. Additionally, the application may offer templates and styling options to enhance the visual appeal of the resumes created by users.
